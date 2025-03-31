@@ -209,8 +209,7 @@ A seguir, uma lista detalhada das 50 funções disponíveis no projeto:
 2. **Compile o projeto:**
 
    ```bash
-   go build -o persistencego.exe main.go
-    ```
+   go build -o persistencego.exe main.go```
    
 3. **Execute o programa com privilégios administrativos:**
 
