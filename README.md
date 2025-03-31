@@ -9,7 +9,7 @@ O autor não se responsabiliza por qualquer dano decorrente do uso deste projeto
 
 ## Descrição
 
-O **PersistenceGo** é um projeto desenvolvido em Go que implementa 50 funções, cada uma representando uma técnica de persistência no Windows. Estas funções, em sua maioria, interagem com o registro do Windows para configurar a execução automática de um executável (por exemplo, `C:\Users\teste\teste.exe`) em diferentes fases do boot, logon ou outros eventos do sistema.
+O **PersistenceGo** é um projeto desenvolvido em Go que implementa 50 funções, cada uma representando uma técnica de persistência no Windows. Estas funções, em sua maioria, interagem com o registro do Windows para configurar a execução automática de um executável (por exemplo, `C:\teste\teste.exe`) em diferentes fases do boot, logon ou outros eventos do sistema.
 
 Este projeto serve como uma base didática para demonstrar como diversas técnicas – inspiradas em ferramentas como o PersistenceSniper – podem ser implementadas em Go.
 
